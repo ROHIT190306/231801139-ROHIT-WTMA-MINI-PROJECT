@@ -1,0 +1,16 @@
+
+body{
+    background-image: url("https://www.creativefabrica.com/wp-content/uploads/2022/05/17/pastel-aesthetic-background-Graphics-30684243-1.jpg");
+    background-repeat: no-repeat;
+}
+.one{
+    background-image: url("https://wallpapers.com/images/hd/aesthetic-moon-night-landscape-9txex9xk69xivbh5.jpg ");
+    background-repeat: no-repeat;
+}
+.text-center{
+    font-family: "Sour Gummy", sans-serif;
+    font-optical-sizing: auto;
+   }
+  .container{
+    color: white;
+    }
